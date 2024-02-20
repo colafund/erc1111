@@ -70,7 +70,7 @@ text-align: center
 
 .toggle-sm ul.ico-social { margin-bottom: -10px !important}
 
-.right-element{background: rgba(21, 21, 33, 0.5);}
+.right-element{background: rgb(3, 0, 0);}
 
 .section-contact,.right-element{overflow: hidden}
 
@@ -219,9 +219,9 @@ span.h3{
 
 .section-contact .contact-h,.section-labs .labs-h{margin-bottom: 30px}
 
-.section-labs .card{background-color: #1e1a34;}
+.section-labs .card{background-color: #030000;}
 
-.section-labs  .card-text:last-child{color: #5a5572}
+.section-labs  .card-text:last-child{color: #f6fefa}
 
  .section-labs .card a { color: #e62705; display: block; }
 
